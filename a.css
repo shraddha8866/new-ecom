@@ -1,0 +1,16 @@
+.image-container {
+   display: flex;
+   justify-content: space-between;
+ }
+ 
+ .image-container img {
+   width: 200px;
+   height: 200px;
+   margin-right: 10px;
+   border: 1px solid pink;
+   border-radius: 4px;
+   
+ }
+ body {
+   background-color: lightpink;
+ }
